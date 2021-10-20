@@ -1,0 +1,14 @@
+curl --location --request GET 'https://backend.zilchill.com/v2/games/football-game?limit=30&offset=0&gameStatus=open&id=' \
+--header 'Connection: keep-alive' \
+--header 'sec-ch-ua: "Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"' \
+--header 'Accept: application/json, text/plain, */*' \
+--header 'Authorization: wVTuvpL0nxF8pK9RPe/4jEQDeGQ=;' \
+--header 'sec-ch-ua-mobile: ?0' \
+--header 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36' \
+--header 'sec-ch-ua-platform: "macOS"' \
+--header 'Origin: https://redchillies.org' \
+--header 'Sec-Fetch-Site: cross-site' \
+--header 'Sec-Fetch-Mode: cors' \
+--header 'Sec-Fetch-Dest: empty' \
+--header 'Referer: https://redchillies.org/' \
+--header 'Accept-Language: vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7'
